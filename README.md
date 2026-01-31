@@ -9,7 +9,7 @@
 
 ## 🔔 News
 
-- [2026-01] **Qwen Team** used VitaBench to evaluate their new model [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking), publishing average score across 4 domains. We encourage the community to adopt VitaBench as the definitive benchmark for tool-use performance and welcome diverse interpretations of its results. The benchmark has also been recently updated—feel free to check out the latest version! 🔥
+- [2026-01] **Qwen Team** has used VitaBench to evaluate their new model [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking), publishing the average score across 4 domains. We encourage the community to adopt VitaBench as the definitive benchmark for tool-use performance and welcome diverse interpretations of its results! 🔥
 - [2026-01] VitaBench has been accepted to **[ICLR 2026](https://openreview.net/forum?id=rtcX9qOBaz)**! 🎉
 - [2026-01] An **updated version** of VitaBench is released with rectified datasets and tools, upgraded evaluation models, and updated metrics for proprietary and open language models based on the new evaluator.
 - [2025-11] The **English version** of the VitaBench dataset is now released! It includes fully translated tasks and databases, enabling broader international use. Try it out!
