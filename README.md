@@ -9,6 +9,7 @@
 
 ## 🔔 News
 
+- [2026-02] VitaBench is cited by [Qwen3.5](https://qwen.ai/blog?id=qwen3.5) and [Seed2.0](https://seed.bytedance.com/en/seed2)! Growing adoption as the go-to benchmark for tool-use evaluation. 🚀
 - [2026-01] **Qwen Team** has used VitaBench to evaluate their new model [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking), publishing the average score across 4 domains. We encourage the community to adopt VitaBench as the definitive benchmark for tool-use performance and welcome diverse interpretations of its results! 🔥
 - [2026-01] VitaBench has been accepted to **[ICLR 2026](https://openreview.net/forum?id=rtcX9qOBaz)**! 🎉
 - [2026-01] An **updated version** of VitaBench is released with rectified datasets and tools, upgraded evaluation models, and updated metrics for proprietary and open language models based on the new evaluator.
